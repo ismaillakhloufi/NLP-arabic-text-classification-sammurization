@@ -105,7 +105,6 @@ This repository hosts the code and resources for a project focusing on **Arabic 
    ```  
 
 ---
-
 ## 🚀 Usage  
 
 1. Launch the web application:  
@@ -117,6 +116,15 @@ This repository hosts the code and resources for a project focusing on **Arabic 
 3. Select:  
    - **Classification**: Get the category of the article.  
    - **Summarization**: Get a concise summary of the article.  
+
+### Example Screenshots  
+
+**Upload an Article:**  
+![Upload Article UI](path/to/your/image1.png)  
+
+**Classification and Summarization Results:**  
+![Results Page](path/to/your/image2.png)  
+
 
 ---
 
