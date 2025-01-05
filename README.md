@@ -34,8 +34,7 @@ This repository hosts the code and resources for a project focusing on **Arabic 
 
 ## 🛠️ Technologies Used  
 
-### Machine Learning & NLP  
-![NLP Classification](5.png)  
+### Machine Learning & NLP   
 - **🧠 LSTM** and **GRU**: Deep learning models for classification.  
 - **🤖 AraBERT**: Pre-trained model for summarization.  
 
@@ -120,10 +119,15 @@ This repository hosts the code and resources for a project focusing on **Arabic 
 
 
 **Home page:**  
-![Upload Article UI](1.png)  
+<div align="center">
+  <img src="1.png" alt="Home Page" width="700">
+</div>  
+
 
 **Classification and Summarization Results:**  
-![Results Page](5.png)  
+<div align="center">
+  <img src="5.png" alt="Results Page" width="700">
+</div>  
 
 
 ---
